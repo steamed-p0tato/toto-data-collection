@@ -10,7 +10,7 @@ def main():
     
     st.title("Toto data collection toolkit")
     st.markdown("Create Toto language entries with corresponding English translations")
-    st.markdown("made by Ariyan |github: steamed-p0tato")
+    st.markdown("made by Ariyan |github: @steamed-p0tato")
 
     # Define the Toto character range and information
     toto_char_info = {
